@@ -29,7 +29,7 @@ This is a responsive restaurant landing page designed to showcase culinary excel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/restaurant-landing-page.git
+   git clone https://github.com/hamadismail/restaurant-landing-page.git
    ```
 
 2. Navigate to the project directory:
